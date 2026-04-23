@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**dan-wellington/dan-wellington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Dan Wellington
 
 Founder & Chief AI Architect, **Tularni AI Labs**.  
