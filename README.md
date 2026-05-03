@@ -10,6 +10,10 @@ Based in Boulder, CO and Sunnyvale, CA.
 
 Tularni AI Labs develops agentic AI software and architecture for trust and reconciliation layers so that optimization can happen at the front end.  Grounding, probing, confidence gating and verified registers can improve factual knowledge that agentic systems need to operate. A trust layer for agentic AI where errors are caught before they ship, not explained after.
 
+**[facts-grounding-demo](https://github.com/dan-wellington/facts-grounding-demo)** — Interactive hallucination    
+suppression on Google's FACTS Grounding benchmark. Multi-stage atomic-claim gate, surgical rewrite, paper-aligned   
+eligibility panel.
+
 ### Elsewhere
 
 - LinkedIn: [dan-wellington](https://linkedin.com/in/dan-wellington)
