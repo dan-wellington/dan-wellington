@@ -8,7 +8,7 @@ Based in Boulder, CO and Sunnyvale, CA.
 
 ### What I'm working on
 
-Tularni AI Labs is developing middleware that separates factual knowledge from model weights using externally verified registers — a trust layer for agentic AI where errors are caught before they ship, not explained after.
+Tularni AI Labs develops agentic AI software and architecture for trust and reconciliation layers so that optimization can happen at the front end.  Grounding, probing, confidence gating and verified registers can improve factual knowledge that agentic systems need to operate. A trust layer for agentic AI where errors are caught before they ship, not explained after.
 
 ### Elsewhere
 
