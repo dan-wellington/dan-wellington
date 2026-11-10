@@ -4,7 +4,7 @@ Founder & Chief AI Architect at **Tularni AI Labs** — building verification in
 
 Previously: Distinguished Member of Technical Staff at Bell Labs, systems work at Nokia. Prior startup (Eden Rock) acquired by Nokia. ~30 years in systems optimization, 9 granted patents.
 
-Based in Boulder, CO and Sunnyvale, CA.
+Based in Boulder, CO and Menlo Park, CA.
 
 ### What I'm working on
 
